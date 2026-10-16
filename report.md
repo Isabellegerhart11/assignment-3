@@ -3,7 +3,8 @@
 ## Submission identifiers
 
 - Repository URL: [github.com/Isabellegerhart11/assignment-3](https://github.com/Isabellegerhart11/assignment-3)
-- Submitted commit: **Recorded after the initial Part 3.1 content commit; see the next documentation commit and the `part-3.1-submission` tag.**
+- Submitted Part 3.1 content commit: [`610a15ca5a722856f2e52a23b46f59e0517d7bc3`](https://github.com/Isabellegerhart11/assignment-3/commit/610a15ca5a722856f2e52a23b46f59e0517d7bc3)
+- Submission reference tag: `part-3.1-submission`
 - Design file: [Quiet Steps Figma design](https://www.figma.com/design/dDWNzyxOVEEoOPLYcuiLr2/Assignment3?node-id=1-3)
 
 ## Linked evidence and design documents
