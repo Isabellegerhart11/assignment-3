@@ -11,6 +11,7 @@ This is a selected, redacted project record. It excludes credentials, personal d
 | Verification | Visual review of the entry screen. | Checked hierarchy, readable text, full-width primary action, visible crisis-support control, and card spacing. | Entry screen passed the visual check. Remaining-screen previews should be rechecked when the Figma connector limit resets. |
 | Failed/revised approach | Attempted reusable components with editable text properties. | The Figma API rejected the text-property binding on the component sublayer. | Revised to a smaller static component set plus deliberately structured editable screen frames. |
 | Unresolved tooling issue | Requested a palette and heading-font update. | Figma's connector hit a preview/edit limit; a browser fallback was unauthenticated and made no changes. | The requested chocolate-brown accent and heading-font refinement remains outstanding. |
+| Submission verification | Confirm that the repository and submitted reference are available remotely. | Checked the published GitHub references after pushing the completed documentation package. | The `main` branch and `part-3.1-submission` tag both resolve to commit `70879e20edf1e303030e246460d85864adc8cf62`. |
 
 ## Evidence interpretation
 

@@ -14,12 +14,9 @@ The Part 3.1 deliverable is a Figma design plus supporting rationale and evidenc
 - [Curated evidence](docs/evidence.md)
 - [AI-use disclosure](AI-USE.md)
 
-## Before submission
+## Submission status
 
-1. Create or publish the remote repository and replace the repository URL placeholder in `report.md`.
-2. Review the Figma design, especially the remaining screens that were not re-previewed after the connector limit was reached.
-3. Commit the final files.
-4. Run `git rev-parse HEAD`, paste that SHA into `report.md`, and make one final commit for the updated report.
+The Part 3.1 package is published in the linked repository. The report identifies the submitted package commit and its `part-3.1-submission` reference tag. Before a later milestone, review the Figma design again—especially the remaining screens that were not re-previewed after the connector limit was reached.
 
 ## Proposed experience
 
