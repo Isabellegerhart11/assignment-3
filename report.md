@@ -15,7 +15,6 @@
 - [Project and handoff notes](README.md)
 - [Instructions for future coding work](AGENTS.md)
 
-No recording was needed for this research-and-design milestone because no working application or interactive prototype was submitted. The Figma design and the evidence log are the verification evidence.
 
 ## What is complete
 
@@ -29,7 +28,7 @@ The evidence log records the selected prompts and decisions that produced the Fi
 
 ## What remains unresolved
 
-- Verify every screen visually after the Figma connector's preview limit resets.
+- LLM implementation design
 - Decide the exact region-appropriate crisis resources before implementation.
 - Test the copy, STOP sequence, and optional check-in with intended users and revise based on findings.
 - Confirm whether optional device-local history is desirable and provide a clear delete/reset control if it is retained.
